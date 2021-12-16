@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 41451c785172e794f86082d6af0e3eae
+  - enabled: 1
+    path: Assets/Scenes/VhunterGameplay.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a578f5b50aa2c19418240e4fe394d50a, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 5188e34e71abf644d99c2d05e4ad30b9, type: 2}
